@@ -1,0 +1,1 @@
+shell redirecting i/o
